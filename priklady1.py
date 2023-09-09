@@ -26,7 +26,7 @@ def generate_math_problem():
     return problem, answer
 
 def create_problem_file(problems):
-    with open("math_problems.txt", "w") as file:
+    with open("math_problems.txt", "w", encoding="utf-8") as file:
         for problem, answer in problems.items():
             file.write(f"{problem} Odpověď: {answer}\n")
     print("Úlohy byly uloženy do souboru 'math_problems.txt'.")

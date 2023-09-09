@@ -1,20 +1,20 @@
 Úloha 1:
-V trojúhelníku ABC, kde je úhel α = 63° a úhel β = 90°, vypočtěte úhel γ.
-Odpověď: 27
+V trojúhelníku ABC, kde je strana a = 71, strana b = 98 a úhel γ = 87°, vypočtěte délku strany c.
+Odpověď: 117
 
 Úloha 2:
-V trojúhelníku ABC, kde je úhel α = 86° a úhel β = 90°, vypočtěte úhel γ.
-Odpověď: 4
+V trojúhelníku ABC, kde je strana a = 24, strana b = 81 a úhel γ = 57°, vypočtěte délku strany c.
+Odpověď: 70
 
 Úloha 3:
-V trojúhelníku ABC, kde je strana a = 21, strana b = 71 a úhel γ = 25°, vypočtěte délku strany c.
-Odpověď: 52
+V trojúhelníku ABC, kde je úhel α = 54° a úhel β = 90°, vypočtěte úhel γ.
+Odpověď: 36
 
 Úloha 4:
-V trojúhelníku ABC, kde je úhel α = 43° a úhel β = 90°, vypočtěte úhel γ.
-Odpověď: 47
+V trojúhelníku ABC, kde je úhel α = 21° a úhel β = 90°, vypočtěte úhel γ.
+Odpověď: 69
 
 Úloha 5:
-V trojúhelníku ABC, kde je úhel α = 62° a úhel β = 90°, vypočtěte úhel γ.
-Odpověď: 28
+V trojúhelníku ABC, kde je úhel α = 59° a úhel β = 90°, vypočtěte úhel γ.
+Odpověď: 31
 

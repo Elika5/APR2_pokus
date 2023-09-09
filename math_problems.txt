@@ -1,4 +1,5 @@
-4 * 6 = ? OdpovÄ›Ä: 24
-3 - 2 = ? OdpovÄ›Ä: 1
-6 + 2 = ? OdpovÄ›Ä: 8
-7 - 5 = ? OdpovÄ›Ä: 2
+6 + 5 = ? Odpovìï: 11
+3 * 3 = ? Odpovìï: 9
+1 / 6 = ? Odpovìï: 0.17
+7 / 1 = ? Odpovìï: 7.0
+10 - 2 = ? Odpovìï: 8
